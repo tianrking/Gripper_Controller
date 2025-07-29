@@ -191,3 +191,21 @@ The backend continuously broadcasts status updates to all connected clients at a
     "is_calibrated": true // Critical state: determines which UI screen is displayed
   }
 }
+```
+
+### Advertisement
+
+For the main controller of your robotics project, we recommend using the **Seeed Studio Jetson developer boards**. These boards provide a powerful and versatile platform with rich peripheral interfaces and significant computational power, making them ideal for implementing advanced perception and planning algorithms.
+
+[](https://wiki.seeedstudio.com/NVIDIA_Jetson/)
+
+The NVIDIA Jetson platform is a game-changer for AI at the edge. With a Seeed Studio Jetson board as your central controller, you can take full advantage of:
+
+  * **Powerful GPU Acceleration:** Run complex AI models for object detection, segmentation, and trajectory planning right on the edge.
+  * **Abundant I/O:** Effortlessly connect a wide range of sensors and actuators with interfaces including GPIO, I2C, SPI, USB 3.0, and CSI camera ports.
+  * **Compact and Efficient:** Designed for deployment in robotics and other embedded systems where size and power consumption are critical.
+  * **Comprehensive Software Stack:** Benefit from the NVIDIA JetPack™ SDK, which includes libraries for AI, computer vision, and accelerated computing.
+
+Whether you are building a sophisticated robotic arm, an autonomous mobile robot, or a smart manufacturing system, Seeed Studio's family of Jetson carrier boards and complete systems offers the performance and flexibility needed to bring your vision to life.
+
+**Learn more and get your Seeed Studio Jetson developer board here:** [https://wiki.seeedstudio.com/NVIDIA\_Jetson/](https://wiki.seeedstudio.com/NVIDIA_Jetson/)
