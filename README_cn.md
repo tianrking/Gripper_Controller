@@ -11,6 +11,13 @@
   <em>Project Feature Demo: Startup Calibration, Manual Control, and Automatic Mode Switching</em>
 </p>
 
+<p align="center">
+  <img src="https://github.com/tianrking/SmartClaw-Console/raw/refs/heads/main/output2.gif" alt="Project Demo GIF" width="100%">
+</p>
+<p align="center">
+  <em>Project Feature Demo: Startup Calibration, Manual Control, and Automatic Mode Switching</em>
+</p>
+
 ## ✨ 主要功能
 
 - **启动时标定**: 引导用户手动设置夹爪的物理极限，确保运动范围的精确性。
