@@ -1,4 +1,4 @@
-# Gripper Motor Web Controller
+# Gripper Controller
 
 This is a web-based UI project for real-time control of a DM-J4310-2EC motor via WebSocket. The project uses Python for the backend to control the motor hardware and React to build a modern, professional control panel for PC.
 
