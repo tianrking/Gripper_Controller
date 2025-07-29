@@ -15,7 +15,14 @@ This is a web-based UI project for real-time control of a DM-J4310-2EC motor via
   <img src="https://github.com/tianrking/SmartClaw-Console/raw/refs/heads/main/output2.gif" alt="Project Demo GIF" width="100%">
 </p>
 <p align="center">
-  <em>Project Feature Demo: Startup Calibration, Manual Control, and Automatic Mode Switching</em>
+  <em>Project Feature Demo: Working</em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/tianrking/SmartClaw-Console/raw/refs/heads/main/output3.gif" alt="Project Demo GIF" width="100%">
+</p>
+<p align="center">
+  <em>Project Feature Demo: Simulation</em>
 </p>
 
 ## ✨ Key Features
